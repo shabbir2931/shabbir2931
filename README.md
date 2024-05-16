@@ -26,7 +26,8 @@
 
 
 <div>
-<img align="right"src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ae0247a7fc36605155a13d7416e5c1ab29b18170&rid=giphy.gif&ct=g" width="400px" height="250px">
+<![1_MmLp2x6cMbr27HdRI9OSTg](https://github.com/shabbir2931/EdA-Hotel-Booking/assets/143161219/f0d66a85-b099-4690-b7b4-dd7cbeadf61d)
+>
 
 ### <![1_MmLp2x6cMbr27HdRI9OSTg](https://github.com/shabbir2931/EdA-Hotel-Booking/assets/143161219/f0d66a85-b099-4690-b7b4-dd7cbeadf61d)
 > About Me  :
