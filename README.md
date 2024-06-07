@@ -101,15 +101,15 @@
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/alishakhan04/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://github.com/codewithalishakhan" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
-<a href="mailto:alishakhannahid@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
+<a href = "https://www.linkedin.com/in/shabbir-a-3807a6179/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+<a href = "https://github.com/shabbir2931" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
+<a href="mailto:mdshabbiransari07@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
 <a href="https://www.hackerrank.com/alishakhannahid" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
  
 
 <!--GRAPH SECTION-->
 
-<a href="https://github.com/codewithalishakhan/github-readme-activity-graph"><img alt="Alisha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codewithalishakhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<a href="https://github.com/shabbir2931/github-readme-activity-graph"><img alt="Shabbir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shabbir2931&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
 <!--ANOTHER GIF-->
