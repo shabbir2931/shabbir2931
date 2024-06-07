@@ -35,7 +35,7 @@
   
 - 🌱  I’m currently learning **Data Science and Analytics.**
 
- -  Pronouns: She/Her.
+ -  Pronouns: He/him.
 <!---  💬 Ask me about *Python,Excel,*-->
 - ⚡ Fun fact: I'm kinda awesome.
   
