@@ -6,7 +6,7 @@
 
 <!--MIDDLE HAND GIF AND NAME-->
 
-<h1 align="center"> Hey!   <<img alt="" class="be lp mr c" width="480" height="360" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:600/0*VmsIuobi6s2Z8rhF.gif">/>
+<h1 align="center"> Hey!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  I'm Md. Shabbir Ansari</h1>
 
 <h2 align="center">I'm an aspiring Data Analyst</h2>
@@ -26,7 +26,7 @@
 
 
 <div>
-<img align="right"src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ae0247a7fc36605155a13d7416e5c1ab29b18170&rid=giphy.gif&ct=g" width="400px" height="250px">
+ <img alt="" class="be lp mr c" width="480" height="360" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:600/0*VmsIuobi6s2Z8rhF.gif">
 
 ### <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="40px" height="40px"> About Me  :
 
