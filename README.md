@@ -1,7 +1,8 @@
 <!--STARING LOGO-->
 
 <p align="center">
- <img  alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="320" width="500px" />
+ <img  alt="GIF" src="![image](https://github.com/shabbir2931/shabbir2931/assets/143161219/2dd1be9e-5ac2-4fbf-9d30-977d33f7deca)
+" height="320" width="500px" />
  </p>
 
 <!--MIDDLE HAND GIF AND NAME-->
