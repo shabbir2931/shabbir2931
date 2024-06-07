@@ -1,7 +1,7 @@
 <!--STARING LOGO-->
 
 <p align="center">
-#root > div > div.l.c > div:nth-child(2) > div.fr.fs.ft.fu.fv.l > article > div > div > section > div > div.gs.gt.gu.gv.gw > div > div > figure > div > picture > img
+<img alt="" class="be mh nd c" width="680" height="428" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:850/0*7Q3yvSIv_t0ioJ-Z.gif">
  </p>
 
 <!--MIDDLE HAND GIF AND NAME-->
