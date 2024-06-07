@@ -1,94 +1,139 @@
-<!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+<!--STARING LOGO-->
 
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
-</p>
+ <img  alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="320" width="500px" />
+ </p>
 
- <!-- About section -->
+<!--MIDDLE HAND GIF AND NAME-->
 
----
-✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
+<h1 align="center"> Hey!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ I'm Md. Shabbir Ansari</h1>
 
-I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a [GitHub Star](https://stars.github.com/profiles/lauragift21/), Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
-
-
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
-- 😄 My Pronouns: She/Her   
-
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
-
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
-
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
-
-<!-- About section: END -->
+<h2 align="center">I'm an aspiring Data Analyst</h2>
 
 
-<!-- Conecct section -->
+<!--ABOUT SECTION-->
 
-<h2>Connect with me </h3>
-    <p>
-        <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/@lauragift_
-/"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-<a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
-   </p>
 
- <!-- Conecct section: END -->
- 
-  <!-- GitHub section -->
+<div>
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+
+ Enthusiastic fresher aspiring to become a Data Analyst. Skilled in data manipulation, visualization, and statistical analysis. Ready to apply my knowledge and passion for data to contribute effectively to the organization's success.. I'm outgoing and dedicated. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time.
+</div>
+<br>
+
+<!--ABOUT ME AND HIS SIDE GIF-->
+
+
+<div>
+<img align="right"src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ae0247a7fc36605155a13d7416e5c1ab29b18170&rid=giphy.gif&ct=g" width="400px" height="250px">
+
+### <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="40px" height="40px"> About Me  :
+
+
+- 🔭 I’m currently working on **Analytical Skills**
+  
+- 🌱  I’m currently learning **Data Science and Analytics.**
+
+ -  Pronouns: She/Her.
+<!---  💬 Ask me about *Python,Excel,*-->
+- ⚡ Fun fact: I'm kinda awesome.
+  
+- 📫 How to reach me **mdshabbiransari07@gmail.com**
+
+- Find me on : 
+
+
 </div>
 
-**Expand to view**
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+<!--FIND ME SECTION-->
+
+<div>
+
+<p align="left">
+
+<a href ="https://www.linkedin.com/in/shabbir-a-3807a6179/"/><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</p>
+</div>
+
+
+<!--LANGUAGE SECTION-->
+
+
+## 🧰 Languages and Tools:
+<p align="center">  
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/></a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ms-word.png"/></a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+
+</p>
+ 
+
+ 
+ <!--STACT SECTION-->
+ 
+ ### :fire: My Github Stats :
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shabbir2931&show_icons=true&theme=tokyonight)
+
+
+<!--STREAK SECTION-->
+
+### :fire: My Streak :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shabbir2931&theme=highcontrast)](https://git.io/streak-stats)
+
+
+
+### <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>  Github Profile Trophy :
+<br>
+  <p align="left" dir="auto">
+    <img src="https://github-profile-trophy.vercel.app/?username=shabbir2931&theme=onedark">
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lauragift21&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
 
-<!-- GitHub section: END -->
 
-<!-- Profile Views -->
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left">
+<a href = "https://www.linkedin.com/in/alishakhan04/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+<a href = "https://github.com/codewithalishakhan" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
+<a href="mailto:alishakhannahid@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
+<a href="https://www.hackerrank.com/alishakhannahid" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
+ 
+
+<!--GRAPH SECTION-->
+
+<a href="https://github.com/codewithalishakhan/github-readme-activity-graph"><img alt="Alisha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codewithalishakhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+
+<!--ANOTHER GIF-->
+
+<p align= "center">
+<img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif width = 400px">
 </p>
 
-<!-- THE END -->
 
 
-<!--
-**lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
 
 
