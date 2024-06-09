@@ -104,7 +104,7 @@
 <a href = "https://www.linkedin.com/in/shabbir-a-3807a6179/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 <a href = "https://github.com/shabbir2931" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
 <a href="mailto:mdshabbiransari07@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
-<a href="https://www.hackerrank.com/alishakhannahid" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
+
  
 
 <!--GRAPH SECTION-->
